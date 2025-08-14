@@ -1,4 +1,4 @@
 function sum(a,b){
     return a + b;
 }
-moddle .exports = sum;
+module.exports = sum;
